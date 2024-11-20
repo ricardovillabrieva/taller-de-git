@@ -1,4 +1,4 @@
-# Curso de GIT, noviembre 2024
+# Curso de GIT, noviembre
 
 Este proyecto contiene el curso de introducción a GIT
 
