@@ -1,8 +1,5 @@
-<<<<<<< Updated upstream
-# Curso de GIT, noviembre
-=======
-# Curso de GIT, 2024
->>>>>>> Stashed changes
+
+# Curso de GIT, noviembre 2024
 
 Este proyecto contiene el curso de introducción a GIT
 
